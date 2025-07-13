@@ -4,10 +4,6 @@
     {
       "name": "text1.txt",
       "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "data2.txt",
-      "url": "https://site.com/data2.txt"
     }
   ]
 }
