@@ -1,0 +1,10 @@
+import random
+
+letters = 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя'
+
+with open("random_letters.txt", "w", encoding="utf-8") as f:
+    for _ in range(100):  # 100 строк
+        line = ''.join(random.choices(letters, k=40))  # 40 букв
+        f.write(line + "\n")
+
+print("Файл random_letters.txt создан.")
