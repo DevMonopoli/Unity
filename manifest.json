@@ -1,7 +1,13 @@
 {
   "version": 1,
   "files": [
-    { "name": "text1.txt", "url": "https://github.com/DevMonopoli/Unity/blob/main/test1.txt" },
-    { "name": "data2.txt", "url": "https://site.com/data2.txt" }
+    {
+      "name": "text1.txt",
+      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
+    },
+    {
+      "name": "data2.txt",
+      "url": "https://site.com/data2.txt"
+    }
   ]
 }
