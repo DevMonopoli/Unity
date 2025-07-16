@@ -1,0 +1,9 @@
+{
+  "game_enabled": false,
+  "maintenance_mode": true,
+  "title": "Server Maintenance",
+  "message": "We are currently performing scheduled maintenance. The game will be available at 12:00 UTC.",
+  "start_time": "2023-08-15T10:00:00",
+  "end_time": "2023-08-15T12:00:00",
+  "server_time": "2023-08-15T10:30:00"
+}
