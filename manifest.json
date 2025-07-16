@@ -1,45 +1,20 @@
 {
-  "version": 1,
+  "game_version": "4.0.0",
+  "required_version": "3.8.5",
   "files": [
     {
-      "name": "text1.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
+      "path": "data/characters/neuvillette.json",
+      "url": "https://cdn.hoyoverse.com/v4.0/characters/neuvillette.json",
+      "size": 28421,
+      "checksum": "e83a4d0b4d16e8720f2cba5d5a5a5a5a",
+      "version": 9
     },
     {
-      "name": "text2.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text3.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text4.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text5.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text6.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text7.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text8.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text9.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
-    },
-    {
-      "name": "text10.txt",
-      "url": "https://raw.githubusercontent.com/DevMonopoli/Unity/main/test1.txt"
+      "path": "data/regions/fontaine.json",
+      "url": "https://cdn.hoyoverse.com/v4.0/regions/fontaine.json",
+      "size": 124521,
+      "checksum": "a5a5a5a5e83a4d0b4d16e8720f2cba5d",
+      "version": 12
     }
   ]
 }
