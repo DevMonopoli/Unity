@@ -3,18 +3,11 @@
   "required_version": "3.8.5",
   "files": [
     {
-      "path": "data/characters/neuvillette.json",
-      "url": "https://cdn.hoyoverse.com/v4.0/characters/neuvillette.json",
+      "path": "patch",
+      "url": "url",
       "size": 28421,
       "checksum": "e83a4d0b4d16e8720f2cba5d5a5a5a5a",
       "version": 9
-    },
-    {
-      "path": "data/regions/fontaine.json",
-      "url": "https://cdn.hoyoverse.com/v4.0/regions/fontaine.json",
-      "size": 124521,
-      "checksum": "a5a5a5a5e83a4d0b4d16e8720f2cba5d",
-      "version": 12
     }
   ]
 }
